@@ -1,0 +1,13 @@
+GROUP	Variable Name	Units	Method	ApD1	ApD2	ApD3	ApMuD1	ApMuD2	ApMuD3	ApMuN4	ApMuN5	ApMuN6	ApN1	ApN2	ApN3	Water2	Water3
+mimarks_investigation	sample_id	Alphanumeric	unknown	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata	Acropora palmata
+mimarks_environment	depth	meter	unknown	1-3	1-3	1-3	1-3	1-3	1-3	1-3	1-3	1-3	1-3	1-3	1-3	1-3	1-3
+mimarks_environment	envo_biome	Alphanumeric	unknown	marine	marine	marine	marine	marine	marine	marine	marine	marine	marine	marine	marine	marine	marine
+mimarks_environment	envo_feature	Alphanumeric	unknown	reef	reef	reef	reef	reef	reef	reef	reef	reef	reef	reef	reef	reef	reef
+mimarks_environment	lat	decimalDegree	unknown	24.85	24.85	24.85	24.85	24.85	24.85	24.85	24.85	24.85	24.85	24.85	24.85	24.85	24.85
+mimarks_environment	lon	decimalDegree	unknown	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5	-76.5
+mims_mimarks_extension	temp	celsius	unknown	26-28	26-28	26-28	26-28	26-28	26-28	26-28	26-28	26-28	26-28	26-28	26-28	26-28	26-28
+mimarks_sequencing	target_gene	Alphanumeric	unknown	16S	16S	16S	16S	16S	16S	16S	16S	16S	16S	16S	16S	16S	16S
+unknown			unknown	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6	CMP_JJ_Bv5v6
+unknown	dna_extraction_meth	Alphanumeric	unknown	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit	Qiagen DNEasy Isolation Kit
+unknown	geo_loc_name	Alphanumeric	unknown	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas	Elkhorn Reef, Lee Stocking Island, Bahamas
+unknown	structured comment name	Units	unknown	ApD1	ApD2	ApD3	ApMuD1	ApMuD2	ApMuD3	ApMuN4	ApMuN5	ApMuN6	ApN1	ApN2	ApN3	Water2	Water3

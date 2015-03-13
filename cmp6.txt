@@ -1,0 +1,14 @@
+GROUP	Variable Name	Units	Method	MID17	MID18	MID20	MID21	MID22	MID23	MID24	MID25	MID26	MID27	MID28
+mimarks_investigation	sample_id	Alphanumeric	unknown	Montastraea faveolata	Montastraea faveolata	Montastraea faveolata	Montastraea faveolata	Montastraea faveolata	Porites astreoides	Porites astreoides	Porites astreoides	Porites astreoides	Porites astreoides	Porites astreoides
+mimarks_environment	collection_date	UTC	unknown	May-09	May-09	Aug-09	Jul-09	Jul-09	May-09	May-09	Aug-09	Aug-09	Jul-09	Jul-09
+mimarks_environment	depth	meter	unknown	5-15m	5-15m	5-15m	5-15m	5-15m	5-15m	5-15m	5-15m	5-15m	5-15m	5-15m
+mimarks_environment	envo_biome	Alphanumeric	unknown	marine	marine	marine	marine	marine	marine	marine	marine	marine	marine	marine
+mimarks_environment	envo_feature	Alphanumeric	unknown	reef	reef	reef	reef	reef	reef	reef	reef	reef	reef	reef
+mimarks_environment	envo_material	Alphanumeric	unknown	surface mucus layer	surface mucus layer	surface mucus layer	surface mucus layer	surface mucus layer	surface mucus layer	surface mucus layer	surface mucus layer	surface mucus layer	surface mucus layer	surface mucus layer
+mimarks_environment	lat	decimalDegree	unknown	24.666 N	24.666 N	16.8019 N	17.6333N	17.6333N	24.666 N	24.666 N	16.8019 N	16.8019 N	17.6333N	17.6333N
+mimarks_environment	lon	decimalDegree	unknown	81.44 W	81.44 W	88.0818 W	63.25W	63.25W	81.44 W	81.44 W	88.0818 W	88.0818 W	63.25W	63.25W
+mimarks_sequencing	sequencing_meth	Alphanumeric	unknown	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 	Roche 454 FLX 
+mimarks_sequencing	target_gene	Alphanumeric	unknown	16S rRNA	16S rRNA	16S rRNA	16S rRNA	16S rRNA	16S rRNA	16S rRNA	16S rRNA	16S rRNA	16S rRNA	16S rRNA
+unknown	dataset_name	Units	unknown	MID17	MID18	MID20	MID21	MID22	MID23	MID24	MID25	MID26	MID27	MID28
+unknown	dna_extraction_meth	Alphanumeric	unknown	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit	Mobio Ultraclean kit
+unknown	geo_loc_name	Alphanumeric	unknown	Summerland Key, Florida	Summerland Key, Florida	Carrie Bow Field Station, Meso-American Reef, Belize	Flat Cay Reef, St. Thomas, US Virgin Islands	Flat Cay Reef, St. Thomas, US Virgin Islands	Summerland Key, Florida	Summerland Key, Florida	Carrie Bow Field Station, Meso-American Reef, Belize	Carrie Bow Field Station, Meso-American Reef, Belize	Flat Cay Reef, St. Thomas, US Virgin Islands	Flat Cay Reef, St. Thomas, US Virgin Islands

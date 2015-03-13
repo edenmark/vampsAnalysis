@@ -1,0 +1,13 @@
+GROUP	Variable Name	Units	Method	176_2	42a	60a	66_2
+mimarks_investigation	sample_id	Alphanumeric	unknown	Seriatopora hystrix	Acropora palifera	Montipora digitata	Porites cylindrica
+mimarks_environment	collection_date	UTC	unknown	July 2001	July 2001	July 2001	July 2001
+mimarks_environment	depth	meter	unknown	10-13	Intertidal reef flats	Intertidal reef flats	Intertidal reef flats
+mimarks_environment	envo_biome	Alphanumeric	unknown	marine	marine	marine	marine
+mimarks_environment	envo_feature	Alphanumeric	unknown	coral reef	coral reef	coral reef	coral reef
+mimarks_environment	lat	decimalDegree	unknown	23.41666 S	23.41666 S	23.41666 S	23.41666 S
+mimarks_environment	lon	decimalDegree	unknown	151.91666 E	151.91666 E	151.91666 E	151.91666 E
+mimarks_sequencing	sequencing_meth	Alphanumeric	unknown	Roche 454 Genome Sequencing FLX-Titanium	Roche 454 Genome Sequencing FLX-Titanium	Roche 454 Genome Sequencing FLX-Titanium	Roche 454 Genome Sequencing FLX-Titanium
+mimarks_sequencing	target_gene	Alphanumeric	unknown	 	 	 	16S rDNA
+unknown	dataset_name	Units	unknown	176_2	42a	60a	66_2
+unknown	dna_extraction_meth	Alphanumeric	unknown	Proteinase K	Proteinase K	Proteinase K	Proteinase K
+unknown	geo_loc_name	Alphanumeric	unknown	Great Barrier Reef, Capricorn Bunker, One Tree Island	Great Barrier Reef, Capricorn Bunker, Heron Island	Great Barrier Reef, Capricorn Bunker, Heron Island	Great Barrier Reef, Capricorn Bunker, Heron Island
