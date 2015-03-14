@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import re
+
 import random
 import numpy
 import matplotlib.pyplot as pyplot
@@ -8,7 +8,7 @@ import matplotlib.pyplot as pyplot
 
 """ Select the files in which you would like to extract data"""
 
-filelist = ['cmpData.txt']
+filelist = ['noSeawater.txt']
 metadata_list = []
 
 """ Probability Distribution Functions and Classes"""
@@ -361,7 +361,6 @@ def where_is_bacteria(bacteria, s = sample_dict, m = metadata_dict, p = species_
                 temp_d[each_bacteria] = p[coral_species][each_bacteria]
             else:
                 temp_d[each_bacteria] += p[coral_species][each_bacteria]
-    #total = temp_d[bacteria]
     
     total = total_bacteria_dict[bacteria]
     
@@ -421,12 +420,15 @@ def whats_in_coral(coral, t = total_dict, m = metadata_dict, s = species_dict):
         # coral num dict is made and describes total numbers of coral species
         
     total = coral_num_dict[coral]
+    #print 'Total: ', total
 
+    #print coral
+    theSum = 0
     for bacteria in s[coral]:
         num = s[coral][bacteria]
         #print num, " " ,bacteria, " bacteria  in ", coral
         theSum += num
-        #print 'theSum: ', theSum
+        #print 'theSum: ', theSum, num
         dist_dict[bacteria] = float(num)/total
 
     return DDist(dist_dict)
@@ -445,12 +447,12 @@ def all_distributions(t=total_bacteria_dict, s=species_dict):
         # create a distribution for each
         distribution = where_is_bacteria(bacteria)
         bact_dist_list.append(distribution)
-    """
+    
     for coral_species in s:
         new_dist = whats_in_coral(coral_species)
         coral_dist_list.append(new_dist)
-    """
-    return bact_dist_list #, coral_dist_list
+    
+    return bact_dist_list , coral_dist_list
 
 
 
@@ -553,6 +555,6 @@ def compare_distributions(dist_list, t=total_bacteria_dict):
     return similar_list, inverse_list, uniform_list, peak_list
 
 dist_list = all_distributions()
-compare_distributions(dist_list)
+compare_distributions(dist_list[0])
 
 
